@@ -1,16 +1,17 @@
-## Hi there 👋
+### Senior Frontend Engineer • Team Lead • Mentor • Angular, React, NodeJS, TypeScript, JavaScript • UI/UX
 
-<!--
-**GorelovNA/GorelovNA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software engineer with 8 years of experience in the IT industry. Proficient in Javascript and Typescript with a strong focus on Angular 17+ and ReactJS. Experienced in application architecture design, team leadership, and solving complex challenges. 
 
-Here are some ideas to get you started:
+Have extensive background in backend development with Node.js and NestJS.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skilled in automated testing, DevOps, and agile methodologies. 
+
+Mentor and actively participate in hiring processes, conducting technical interviews with candidates, and project estimations. I highly value teamwork and collaborative spirit, fostering a friendly environment where all team members' opinions are heard and respected.
+
+Committed to continuous learning and improvement.
+
+ 
+#### Contact me
+ 
+ [Telegram](https://t.me/gorelovnikita),
+ [Gmail](mailto:gorelovnikita93@gmail.com)
