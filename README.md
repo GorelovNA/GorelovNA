@@ -1,6 +1,8 @@
-### Senior Frontend Engineer • Team Lead • Mentor • Angular, React, NodeJS, TypeScript, JavaScript • UI/UX
+### Senior Software Engineer • Team Lead • Mentor • AI, Angular, React, NodeJS, TypeScript, JavaScript • UI/UX
 
-Software engineer with 8 years of experience in the IT industry. Proficient in Javascript and Typescript with a strong focus on Angular 17+ and ReactJS. Experienced in application architecture design, team leadership, and solving complex challenges. 
+Software engineer with 10 years of experience in the IT industry. Proficient in Javascript and Typescript with a strong focus on Angular 20+ and ReactJS. Experienced in application architecture design, team leadership, and solving complex challenges. 
+
+Strong background in Agentic AI-driven development, leveraging tools such as Claude Code, Cursor, and GitHub Copilot to optimize engineering workflows, improve developer productivity, and reduce feature delivery time. Experienced in configuring projects and development processes to work effectively with AI agents, enabling faster implementation, better code quality, and streamlined collaboration.
 
 Have extensive background in backend development with Node.js and NestJS.
 
