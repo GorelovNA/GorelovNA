@@ -1,4 +1,4 @@
-### Senior Software Engineer • Team Lead • Mentor • AI, Angular, React, NodeJS, TypeScript, JavaScript • UI/UX
+### Senior Software Engineer • AI, Angular, React, NodeJS, TypeScript, JavaScript • UI/UX
 
 Software engineer with 10 years of experience in the IT industry. Proficient in Javascript and Typescript with a strong focus on Angular 20+ and ReactJS. Experienced in application architecture design, team leadership, and solving complex challenges. 
 
